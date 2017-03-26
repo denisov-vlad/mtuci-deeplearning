@@ -1,3 +1,9 @@
 [submodule "tensorflow-mnist-tutorial"]
 	path = tensorflow-mnist-tutorial
 	url = git@github.com:martin-gorner/tensorflow-mnist-tutorial.git
+[submodule "deep-visualization-toolbox"]
+	path = deep-visualization-toolbox
+	url = git@github.com:yosinski/deep-visualization-toolbox.git
+[submodule "receiptscan"]
+	path = receiptscan
+	url = git@github.com:CyrusVorwald/receiptscan.git
