@@ -33,7 +33,7 @@ tensorflow==1.0.0
 Запуск:
 
 ```bash
-python mnist_4.1_batchnorm_five_layers_relu.py
+python tensorflow-mnist-tutorial/mnist_4.1_batchnorm_five_layers_relu.py
 ```
 
 Точность:
@@ -63,7 +63,7 @@ max test accuracy: 0.9846
 Запуск:
 
 ```bash
-python mnist_4.1_batchnorm_convolutional.py
+python tensorflow-mnist-tutorial/mnist_4.1_batchnorm_convolutional.py
 ```
 
 Точность:
