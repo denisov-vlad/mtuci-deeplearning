@@ -1,4 +1,4 @@
-# TensorFlow MNIST Tutorial
+# Распознавание рукописных цифр из набора данных MNIST с помощью библиотеки TensorFlow
 
 Установка:
 
@@ -75,3 +75,6 @@ python tensorflow-mnist-tutorial/mnist_4.1_batchnorm_convolutional.py
 max test accuracy: 0.9958
 ```
 
+Выводы:
+
+Проведено обучение глубокой нейронной сети и свёрточной нейронной сети. Сохранены их модели и веса.
